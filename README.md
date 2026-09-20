@@ -8,6 +8,7 @@ A responsive React web app where developers can browse a curated catalog of tech
 ## 🛠️ Technologies Used
 
 - React.js (Vite)
+
 - Tailwind CSS + DaisyUI
 - React-Toastify
 - JavaScript (ES6+)
