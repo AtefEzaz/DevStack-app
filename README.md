@@ -1,9 +1,9 @@
-# 🧱 Dev Stack Builder
+# 🧱 Dev Stack App
 
 A responsive React web app where developers can browse a curated catalog of technologies, filter through frontend, backend, database, and DevOps tools, and build their own personal "stack" by adding and removing items — with live toast notifications for every action.
 
 **Live Site:** _add your deployed link here_
-**Repository:** _add your GitHub link here_
+**Repository:** https://github.com/AtefEzaz/DevStack-app
 
 ## 🛠️ Technologies Used
 
