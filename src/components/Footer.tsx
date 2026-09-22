@@ -58,9 +58,6 @@ export default function Footer() {
             Privacy
           </a>{" "}
           ·{" "}
-          <a href="#" className="hover:text-gray-600">
-            Terms
-          </a>
         </p>
       </div>
     </footer>
